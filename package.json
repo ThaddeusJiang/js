@@ -1,9 +1,9 @@
 {
-  "name": "@thaddeusjiang/utils",
+  "name": "@thaddeusjiang/js",
   "author": "TJ",
   "version": "0.1.0",
   "license": "MIT",
-  "module": "dist/utils.esm.js",
+  "module": "dist/js.esm.js",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
@@ -11,7 +11,7 @@
     "src"
   ],
   "engines": {
-    "node": ">=10"
+    "node": ">=16"
   },
   "scripts": {
     "start": "tsdx watch",
@@ -36,11 +36,11 @@
   },
   "size-limit": [
     {
-      "path": "dist/utils.cjs.production.min.js",
+      "path": "dist/js.cjs.production.min.js",
       "limit": "10 KB"
     },
     {
-      "path": "dist/utils.esm.js",
+      "path": "dist/js.esm.js",
       "limit": "10 KB"
     }
   ],

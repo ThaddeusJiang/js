@@ -1,11 +1,7 @@
 # Welcome to @thaddeusjiang/js 👋
 
-This is a set of utils/helper/snippets that you can copy and paste into your apps.
+This is a set of utils/helpers/snippets that you can `copy` and `paste` into your codes.
 
-Also can install via npm/yarn/pnpm.
-
-![Version](https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000)
-![Prerequisite](https://img.shields.io/badge/node-%3E%3D10-blue.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#)
 [![Twitter: ThaddeusJiang](https://img.shields.io/twitter/follow/ThaddeusJiang.svg?style=social)](https://twitter.com/ThaddeusJiang)
 
@@ -20,21 +16,9 @@ Also can install via npm/yarn/pnpm.
   - SurrealDB
   - Tanstack/Table
 
-## Prerequisites
+## Usage
 
-- node >=16
-
-## Install
-
-```sh
-yarn add @thaddeusjiang/js
-```
-
-## Run tests
-
-```sh
-yarn run test
-```
+**copy the code you need**
 
 ## Author
 

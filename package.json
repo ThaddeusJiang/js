@@ -1,7 +1,7 @@
 {
   "name": "@thaddeusjiang/js",
   "author": "TJ",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "MIT",
   "module": "dist/js.esm.js",
   "main": "dist/index.js",

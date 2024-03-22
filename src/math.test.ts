@@ -1,4 +1,4 @@
-import { round, roundDown, roundUp } from '../src/math'
+import { round, roundDown, roundUp } from './math'
 
 it('math round', () => {
   expect(round(1.23456, 2)).toEqual(1.23)

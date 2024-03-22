@@ -1,4 +1,4 @@
-import { jaFormat, yenFormat } from '../src'
+import { jaFormat, yenFormat } from './number'
 
 describe('member', () => {
   it('jaFormat', () => {

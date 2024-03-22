@@ -1,4 +1,4 @@
-import { csv2objects } from '../src'
+import { csv2objects } from './csv'
 
 test('csv2objects', () => {
   const definitions = [

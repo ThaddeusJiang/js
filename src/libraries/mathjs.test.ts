@@ -1,4 +1,4 @@
-import { parseMathjsExpression } from '../../src/libraries/mathjs'
+import { parseMathjsExpression } from './mathjs'
 it('mathjs parseMathjsExpression', () => {
   const raw = `ROUNDDOWN([[definitions.id1]] / [[definitions.id1]],0) * 8 * [[definitions.id2]] + ROUND([[definitions.id1]] / [[definitions.id1]],0) * [[definitions.id3]] - ROUNDUP([[definitions.id1]] / [[definitions.id1]],0) * [[definitions.id3]]`
   const { expression, scope } = parseMathjsExpression(raw)

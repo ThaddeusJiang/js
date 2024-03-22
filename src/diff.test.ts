@@ -1,4 +1,4 @@
-import { diff } from '../src/diff'
+import { diff } from './diff'
 
 test('diff: should return the diff between two arrays', () => {
   const data = [

@@ -1,4 +1,4 @@
-import { decodeId, encodeId, parseQuery } from '../../src/libraries/surrealdb'
+import { decodeId, encodeId, parseQuery } from './surrealdb'
 
 it('parseQuery standard', () => {
   const params = {

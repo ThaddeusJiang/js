@@ -1,20 +1,9 @@
-# Welcome to @thaddeusjiang/js 👋
+# thaddeusjiang/js
 
-This is a set of utils/helpers/snippets that you can `copy` and `paste` into your codes.
+Useful JavaScript/TypeScript snippets utils/helpers/snippets that you can `copy` and `paste` into your apps.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#)
-[![Twitter: ThaddeusJiang](https://img.shields.io/twitter/follow/ThaddeusJiang.svg?style=social)](https://twitter.com/ThaddeusJiang)
-
-## Features
-
-- csv
-- diff
-- math
-- number
-- libraries
-  - Mathjs
-  - SurrealDB
-  - Tanstack/Table
+[![X: ThaddeusJiang](https://img.shields.io/twitter/follow/ThaddeusJiang.svg?style=social)](https://twitter.com/ThaddeusJiang)
 
 ## Usage
 
@@ -31,7 +20,3 @@ This is a set of utils/helpers/snippets that you can `copy` and `paste` into you
 ## Show your support
 
 Give a ⭐️ if this project helped you!
-
----
-
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
